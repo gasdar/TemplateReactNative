@@ -1,0 +1,10 @@
+// Create New React Native Proyect
+npx create-expo-app@latest
+
+// Ejecutar React Native app
+npm run web
+npm run android
+npm run ios
+
+// Refresca la carpeta '/app' del proyecto
+npm run reset-project
